@@ -1,0 +1,41 @@
+male:
+  nouns:
+    - boy
+    - dude
+    - guy
+    - bro
+    - gangsta
+  adjectives:
+    - hot
+    - big
+    - skater
+  spacers:
+    - ""
+  modifiers:
+    ate: "8"
+
+female:
+  nouns:
+    - girl
+    - dudette
+    - gal
+    - chick
+    - mama
+  adjectives:
+    - hot
+    - little
+    - cute
+    - skater
+  spacers:
+    - x
+    - X
+    - O
+    - o
+  modifiers:
+    "/[[^t]t$]/": "tie"
+    ate: "8"
+
+numbers:
+  - ''
+  - '808'
+  - '911'

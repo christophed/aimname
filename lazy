@@ -1,0 +1,2 @@
+gem build aimname.gemspec
+gem install ./aimname-0.0.0.gem

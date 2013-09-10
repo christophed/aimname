@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+require 'aimname'
+
+options = {}
+
+ARGV.each do |a|
+  arg, value = a.split "="
+  unless (arg.nil? || value.nil?)
+    options[arg.strip] = value.strip
+  end
+end
+
+puts AimName.new(options).generate

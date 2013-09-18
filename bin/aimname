@@ -10,4 +10,4 @@ ARGV.each do |a|
   end
 end
 
-puts AimName.new(options).generate
+puts Aimname.new(options).generate

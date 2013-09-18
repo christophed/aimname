@@ -1,7 +1,7 @@
 require 'active_support/core_ext/hash/indifferent_access'
 require 'yaml'
 
-class AimName
+class Aimname
   attr_accessor :gender
 
 # Params: gender

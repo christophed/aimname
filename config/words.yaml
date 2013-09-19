@@ -5,10 +5,39 @@ male:
     - guy
     - bro
     - gangsta
+    - dawg
+    - chief
+    - king
+    - prez
+    - dr
+    - captain
+    - auteur
+    - junkie
+    - hov
+    - lawyer
+    - douchebag
+    - politician
   adjectives:
     - hot
     - big
     - skater
+    - swag
+    - chill
+    - sick
+    - ill
+    - hustlin
+    - avantgarde
+    - sensitive
+    - jammin
+    - tweakin
+    - radical
+    - bad
+    - dabes
+    - swagg
+    - swole
+    - stacked
+    - faded
+    - 1percent
   spacers:
     - ""
   modifiers:
@@ -21,11 +50,26 @@ female:
     - gal
     - chick
     - mama
+    - theprez
   adjectives:
     - hot
     - little
     - cute
     - skater
+    - baddest
+    - bad
+    - pregnant
+    - pregger
+    - ambitious
+    - intelligent
+    - dignified
+    - respected
+    - motivated
+    - hardworking
+    - dedicated
+    - thoughtful
+    - talented
+    - skilled
   spacers:
     - x
     - X

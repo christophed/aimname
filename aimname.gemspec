@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'aimname'
-  s.version     = '0.0.0'
+  s.version     = '1.0.0'
   s.date        = '2013-09-07'
   s.summary     = "Generates AIM screen names"
   s.description = "See summary"
